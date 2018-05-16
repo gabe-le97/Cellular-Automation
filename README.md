@@ -1,13 +1,17 @@
 # Cellular-Automation
 Runs 4 versions of an application where cells die & grow depending on their location
 ***
-Rule 1: Conway's classic Game of Life 
+Rule 1: Conway's classic Game of Life
+![rule1](https://raw.githubusercontent.com/gabe-le97/Cellular-Automation/master/img/rule1.png)
 
 Rule 2: Coral
+![rule2](https://raw.githubusercontent.com/gabe-le97/Cellular-Automation/master/img/rule2.png)
 
 Rule 3: Amoeba
+![rule3](https://raw.githubusercontent.com/gabe-le97/Cellular-Automation/master/img/rule3.png)
 
 Rule 4: Maze
+![rule4](https://raw.githubusercontent.com/gabe-le97/Cellular-Automation/master/img/rule4.png)
 ***
 This program takes as parameters: __./filename numberOfRows numberOfColumns numberOfThreads__
 ***
